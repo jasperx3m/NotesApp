@@ -5,6 +5,12 @@ Steps to Install
 2. Open terminal and run "npm i"
 3. Run "npm run start"
 
+Should you have any problems on setting up the application kindly send me a message at jasper.orilla915@gmail.com.  
+If the port is already being used kindly let me know also, so I can change the port number.
+
+Thank you!
+
+-----------------------------------------------------
 **API Documentation**
 
 Description: Get List of Notes  
@@ -100,5 +106,4 @@ Response: {
     "data": null  
 }  
 
-Should you have any problems on setting up the application kindly send me a message at jasper.orilla915@gmail.com. 
-Thank you!
+
