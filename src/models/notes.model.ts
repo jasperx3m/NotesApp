@@ -1,5 +1,5 @@
 export  interface Note {
-    id: string, // numbers for now
+    id: string, //uuid
     title: string,
     body: string,
     createdAt: Date,
