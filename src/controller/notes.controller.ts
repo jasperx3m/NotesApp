@@ -40,6 +40,7 @@ export default class NotesController{
         if (note){
             note.title = title;
             note.body = body;
+            note.updatedAt = new Date();
             let index = this.notesArray.indexOf(note);
             this.notesArray[index]=note;
         }
