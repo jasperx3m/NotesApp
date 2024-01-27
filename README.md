@@ -5,7 +5,7 @@ Steps to Install
 2. Open terminal and run "npm i"
 3. Run "npm run start"
 
-API Documentation
+**API Documentation**
 
 Description: Get List of Notes  
 Endpoint: localhost:3000/notes  
@@ -92,7 +92,7 @@ Response: {
     }  
 }  
   
-Here is Sample Error Response for Each Request:   
+**Here is Sample Error Response for Each Request:**  
 {  
     "status": "failed",  
     "code": 400,  
