@@ -1,7 +1,7 @@
 # NotesApp
 
 Steps to Install
-1. Clone this reposss
+1. Clone this repos
 2. Open terminal and run "npm i"
 3. Run "npm run start"
 
